@@ -50,3 +50,10 @@ pip install -r requirements.txt
 
 # Run app
 streamlit run app.py
+
+🤝 Credits
+
+This project was inspired by [DigitalOcean tutorials](https://www.digitalocean.com/community/tutorials) and built as part of my machine learning learning journey.
+📩 Contact
+
+Feel free to connect with me on [X (Twitter)](https://x.com/justkimtai) or [email](mailto:justkimtai@gmail.com) me for collaboration, freelance work, or opportunities!

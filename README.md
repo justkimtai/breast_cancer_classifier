@@ -4,7 +4,7 @@ A machine learning web app that predicts whether a tumor is **malignant or benig
 
 ## 🚀 Live Demo
 
-👉 [Try the live app here](https://breast-cancer-streamlit.streamlit.app)
+👉 [Try the live app here](https://breastcancerclassifierdemo.streamlit.app/)
 
 ## 🎯 Features
 

@@ -30,9 +30,9 @@ A machine learning web app that predicts whether a tumor is **malignant or benig
 
 ## 📸 Screenshots
 
-| Prediction Interface | Confusion Matrix |
-|----------------------|------------------|
-| ![UI](images/ui.png) | ![CM](images/confusion_matrix.png) |
+| Prediction Interface | Confusion Matrix                   | Bar Chart                                      |
+|----------------------|------------------------------------|------------------------------------------------|
+| ![UI](images/ui.png) | ![CM](images/confusion_matrix.png) | ![CM](images/predicted_class_distribution.png) |
 
 ## 🧪 Getting Started Locally
 

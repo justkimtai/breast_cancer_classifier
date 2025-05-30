@@ -1,4 +1,4 @@
-# 🧠 Breast Cancer Classifier
+# 🧬 Breast Cancer Classifier
 
 A machine learning web app that predicts whether a tumor is **malignant or benign** using the **Breast Cancer Wisconsin Diagnostic Dataset**. Built with **Scikit-learn**, **Streamlit**, and **Python**, and deployed to the cloud for public access.
 

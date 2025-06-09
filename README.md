@@ -59,3 +59,7 @@ This project was inspired by [DigitalOcean tutorials](https://www.digitalocean.c
 ## 📩 Contact
 
 Feel free to connect with me on [X (Twitter)](https://x.com/justkimtai) or [email](mailto:justkimtai@gmail.com) me for collaboration, freelance work, or opportunities!
+
+---
+
+> Built with ❤️ by [Justus Kimtai](https://github.com/justkimtai)
